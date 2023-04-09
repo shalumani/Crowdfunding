@@ -1,0 +1,149 @@
+.left{
+  float:left;
+   --contrast: #dbaf48;
+margin-left:1em;
+   position: relative;
+   padding: 10px;
+   background-color: var(--bg);
+   border-radius: 35px;
+   
+}
+
+
+
+
+
+
+.card {
+  float:left;
+   --contrast: #dbaf48;
+margin-left:50px;
+   position: relative;
+   padding: 10px;
+   background-color: var(--bg);
+   border-radius: 35px;
+   
+ }
+ 
+ 
+ 
+ .card-inner {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   overflow: hidden;
+   width: 5px;
+   height: 7em;
+   background-color: var(--contrast);
+   border-radius: 30px;
+   /* Content style */
+   font-size: 30px;
+   font-weight: 900;
+   color: #fffcfc;
+   text-align: center;
+   font-family: monospace;
+ }
+
+  .card {
+   
+    --contrast:#dbaf48;
+margin-top: 1em;
+margin-left: 2px;
+margin-right: 0.2em;
+    position: relative;
+    padding: 9px;
+    background-color: var(--bg);
+    border-radius: 35px;
+   
+  }
+  
+  
+  
+  .card-inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 7em;
+    height: 7em;
+    background-color: var(--contrast);
+    border-radius: 30px;
+    /* Content style */
+    font-size: 30px;
+    font-weight: 900;
+    color: #fffcfc;
+    text-align: center;
+    font-family: monospace;
+    
+  }
+  .card {
+   
+    --contrast: #dbaf48;
+margin-left: -0.7em;
+    position: relative;
+    padding: 10px;
+    background-color: var(--bg);
+    border-radius: 35px;
+    
+  }
+  
+  
+  
+  .card-inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 7em;
+    height: 7em;
+    background-color: var(--contrast);
+    border-radius: 30px;
+    /* Content style */
+    font-size: 30px;
+    font-weight: 900;
+    color: #fffcfc;
+    text-align: center;
+    font-family: monospace;
+    
+  }
+
+  .card-below {
+
+ margin-top: 1px;
+ margin-left: -0.6em;
+ margin-right: 1200px;
+ margin-bottom: 30px;
+     --contrast:#dbaf48;
+     
+     position: relative;
+     padding: 9px;
+     background-color: var(--bg);
+     border-radius: 35px;
+     
+   }
+   .card-inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 7em;
+    height: 7em;
+    background-color: var(--contrast);
+    border-radius: 30px;
+    /* Content style */
+    font-size: 30px;
+    font-weight: 900;
+    color: #fffcfc;
+    text-align: center;
+    font-family: monospace;
+    
+  }
+     
